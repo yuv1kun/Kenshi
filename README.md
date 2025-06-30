@@ -240,7 +240,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ and ⚡ by the Neural Security Team**
+**Made with ❤️ and ⚡ by the [yuv1kun](https://github.com/yuv1kun)**
 
 [⭐ Star this repo](https://github.com/yourusername/yourrepo)
 
