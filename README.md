@@ -1,8 +1,6 @@
 
 # 🧠 Neural Network Cybersecurity Analysis Platform
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge)](https://your-demo-url.lovable.app)
-[![Built with Lovable](https://img.shields.io/badge/Built%20with-Lovable-ff69b4?style=for-the-badge)](https://lovable.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
@@ -151,7 +149,7 @@ Interactive neural network diagram with:
 - Real-time neural activity
 - Interactive controls
 - Anomaly detection display
-- Analysis state management
+- Analysis of state management
 
 ### **Command Interface**
 Powerful command system with:
@@ -189,11 +187,6 @@ VITE_DEBUG_MODE=false
 - **Data**: Update sample data in `src/data/sampleNetworkData.ts`
 
 ## 🚀 Deployment
-
-### **Using Lovable**
-1. Click the **Publish** button in Lovable editor
-2. Your app will be deployed to `yoursite.lovable.app`
-3. Connect custom domain in Project Settings
 
 ### **Self-Hosting**
 ```bash
@@ -239,17 +232,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Lovable** - For the amazing development platform
 - **Spline** - For 3D visualization capabilities
 - **Shadcn** - For beautiful UI components
 - **React Community** - For the incredible ecosystem
-
-## 📞 Support
-
-- 📧 **Email**: support@yourproject.com
-- 💬 **Discord**: [Join our community](https://discord.gg/yourserver)
-- 📖 **Docs**: [Full documentation](https://docs.yourproject.com)
-- 🐛 **Issues**: [Report bugs](https://github.com/yourusername/yourrepo/issues)
 
 ---
 
@@ -257,6 +242,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ and ⚡ by the Neural Security Team**
 
-[⭐ Star this repo](https://github.com/yourusername/yourrepo) • [🚀 Try Demo](https://your-demo-url.lovable.app) • [📱 Follow Updates](https://twitter.com/yourhandle)
+[⭐ Star this repo](https://github.com/yourusername/yourrepo)
 
 </div>
